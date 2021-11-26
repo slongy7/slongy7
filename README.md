@@ -12,15 +12,21 @@ Certified Web Developer from OSU Full Stack Web Development Bootcamp
 
 ## Skills
 <p>
+  
 * Adobe Illustrator
   
 * Adobe InDesign
   
-Adobe Flash
-Adobe 
-App Developer
-Boostrap
-Coding
+* Adobe Flash
+  
+* Adobe
+  
+* App Developer
+ 
+* Boostrap
+  
+* Coding
+  
 !Golf
 Google Chrome
 Health
