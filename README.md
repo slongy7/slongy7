@@ -27,14 +27,14 @@ Certified Web Developer from OSU Full Stack Web Development Bootcamp
   
 * Coding
   
-!Golf
-Google Chrome
-Health
-Hire Me
-Organization
-Sports
-Time Management
-Website Management
+* !Golf
+* Google Chrome
+* Health
+* Hire Me
+* Organization
+* Sports
+* Time Management
+* Website Management
   </p>
 
 
